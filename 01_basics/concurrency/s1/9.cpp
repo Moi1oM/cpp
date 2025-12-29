@@ -14,5 +14,5 @@ enum struct Commands {
 };
 
 class CleaningCrew {
-    
+
 };

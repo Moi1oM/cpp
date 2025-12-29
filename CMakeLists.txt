@@ -4,7 +4,8 @@ project(cpp)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(cpp
-        01_basics/concurrency/s2/4.cpp
-        01_basics/concurrency/s2/5.cpp
-        01_basics/concurrency/s2/common.h
-        01_basics/concurrency/s2/9.cpp)
+        01_basics/concurrency/s1/4.cpp
+        01_basics/concurrency/s1/5.cpp
+        01_basics/concurrency/s1/common.h
+        01_basics/concurrency/s1/9.cpp
+        01_basics/concurrency/s1/16.cpp)
